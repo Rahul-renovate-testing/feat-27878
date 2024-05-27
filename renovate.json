@@ -1,0 +1,9 @@
+{
+  "packageRules": [
+    {
+      "matchBaseBranches": ["main"],
+      "addLabels": ["dev-1"]
+    }
+  ],
+  "dependencyDashboard": true
+}
